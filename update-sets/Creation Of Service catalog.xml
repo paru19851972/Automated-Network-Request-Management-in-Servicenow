@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-08-30 21:52:41">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Creation Of Service Catalog</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>395d657f9323221047d33a8efaba1054</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>b3060ebf93a3221047d33a8efaba106a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>catalog_ui_policy_action_5314c23f93a3221047d33a8efaba10c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Network Request">c9cded7f9323221047d33a8efaba10ed</catalog_item><catalog_variable>IO:15b2bd379363221047d33a8efaba109e</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:44:57</sys_created_on><sys_id>5314c23f93a3221047d33a8efaba10c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>provide_details_here</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>catalog_ui_policy_action_5314c23f93a3221047d33a8efaba10c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:44:57</sys_updated_on><table/><ui_policy display_value="Types of devices is others">a7b3cafb93a3221047d33a8efaba10c4</ui_policy><value/><value_action>ignore</value_action><variable>provide_details_here</variable><variable_set/><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=5314c23f93a3221047d33a8efaba10c6"/></record_update>]]></payload>
+<payload_hash>1118964793</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>33060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcf0d3330000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>provide_details_here</target_name>
+<type>Catalog UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>fa44c63f5ea3221061eee6897df89393</update_guid>
+<update_guid_history>fa44c63f5ea3221061eee6897df89393:1118964793</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_d49175f39363221047d33a8efaba1062</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;location_devices&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;400&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Location &amp;amp; Devices Type&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:23:56&lt;/sys_created_on&gt;&lt;sys_id&gt;d49175f39363221047d33a8efaba1062&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Location &amp;amp; Devices Type&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_d49175f39363221047d33a8efaba1062&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:23:56&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;19&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d49175f39363221047d33a8efaba1062"/&gt;&lt;fx_price action="delete_multiple" query="id=d49175f39363221047d33a8efaba1062"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2079861164</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>33060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca736b70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Location &amp; Devices Type</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>01e13df3ca632210b3e55c30c99bcc83</update_guid>
+<update_guid_history>01e13df3ca632210b3e55c30c99bcc83:-2079861164,ccc179f3a66322105314417fafddcf38:-603862609</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_c9cded7f9323221047d33a8efaba10ed</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category display_value="Network">cd2e29bf9323221047d33a8efaba10d9</category><checked_out/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Network Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=c9cded7f9323221047d33a8efaba10ed&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><recurring_price>0</recurring_price><request_method/><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description>Network request Management </short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:10:01</sys_created_on><sys_id>c9cded7f9323221047d33a8efaba10ed</sys_id><sys_mod_count>28</sys_mod_count><sys_name>Network Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_c9cded7f9323221047d33a8efaba10ed</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-08-30 21:44:57</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>28</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=c9cded7f9323221047d33a8efaba10ed"/><fx_price action="delete_multiple" query="id=c9cded7f9323221047d33a8efaba10ed"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>c9cded7f9323221047d33a8efaba10ed</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:10:01</sys_created_on><sys_id>549e61ff9323221047d33a8efaba10f6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:10:01</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>c9cded7f9323221047d33a8efaba10ed</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:10:01</sys_created_on><sys_id>5c9e61ff9323221047d33a8efaba10f7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:10:01</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1421597453</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>370602ff93a3221047d33a8efaba1015</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcf0d3170000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Network Request</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>3244c63f71a3221038d4e3c9b07a9391</update_guid>
+<update_guid_history>3244c63f71a3221038d4e3c9b07a9391:-1421597453,fc14823f93a3221011ac0f2ee3377986:961991090,c87e3d37efa3221072ac91fcb2a71565:-949387663,8c7e3d3727a322106d6dca55b9b6fd5e:1434200880,945df1f39da322102980db6c2be97865:-477177873,1bfbf573e0a32210c002a3445d649666:1906410670,9deb757322a322104d92418bb8805b80:-4968083,f3fabdff6d6322103ce6d4416c1110a5:-1916346836,fccaf9ffe26322109548bf44593327eb:467241707,b96a35ffb96322102152482d52630638:1366582101,c9e9f5bfc16322104b9e791d460ad7ea:-544796652,4ab8b93f2e632210fcbe79752e190996:1838791891,2288f53f40632210a08a86f5f7cb5528:-72586862,9a34fdb733632210211b555676bcbed6:-1983965615,ff147db74e632210f7d278a44bf2c043:399622928,b473fd7705632210951b077ea6ce9e3a:-1511755825,9a33757708632210f7c2aa0eef0236a0:871832718,9de2f1771d63221043db674531753437:-1039546035,9da27d373a632210ad9b8022b21acab0:1344042508,48423537356322103255b951bca0cd19:-604175952,4412fdf34963221091360f0dcc506390:1779412591,0de13df30f63221036503b2c3d84367f:-131966162,84c1b5f395632210598c2c69159f027b:-2043344915,2d6171f3f0632210b8cf7957706a7b28:340243628,8821f9b38963221037162e8e3c7b7927:-1571135125,bb50793315632210ddc44a03ad61e304:812453418,927fa53373632210ede7bc0d08597790:-1098925335,909ea1ff5e232210aac087a7b336430d:1284663208,989ea1fffc23221051f3638273084d06:721401976</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_9e8fe5339363221047d33a8efaba1006</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;is_this_a_new_network_connection_or_a_re_request&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;300&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Is this a new network connection or a relocation?&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:17:55&lt;/sys_created_on&gt;&lt;sys_id&gt;9e8fe5339363221047d33a8efaba1006&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Is this a new network connection or a relocation?&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_9e8fe5339363221047d33a8efaba1006&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:17:55&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;3&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9e8fe5339363221047d33a8efaba1006"/&gt;&lt;fx_price action="delete_multiple" query="id=9e8fe5339363221047d33a8efaba1006"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;9e8fe5339363221047d33a8efaba1006&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:17:55&lt;/sys_created_on&gt;&lt;sys_id&gt;735079339363221047d33a8efaba1006&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:17:55&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;9e8fe5339363221047d33a8efaba1006&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:17:55&lt;/sys_created_on&gt;&lt;sys_id&gt;3f5079339363221047d33a8efaba1005&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:17:55&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-35746076</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>37060ebf93a3221047d33a8efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca122210000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Is this a new network connection or a relocation?</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>fb507973b26322102e50f996395b241d</update_guid>
+<update_guid_history>fb507973b26322102e50f996395b241d:-35746076</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_db0439b79363221047d33a8efaba10d0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="Is this a new network connection or a relocation?">9e8fe5339363221047d33a8efaba1006</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:34:44</sys_created_on><sys_id>db0439b79363221047d33a8efaba10d0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Relocation</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_db0439b79363221047d33a8efaba10d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:53:36</sys_updated_on><text>Relocation</text><value>reloacation</value></question_choice><fx_price action="delete_multiple" query="id=db0439b79363221047d33a8efaba10d0"/></record_update>]]></payload>
+<payload_hash>-1646805138</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>3b0602ff93a3221047d33a8efaba1014</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcc1d0220000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Relocation</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>3688f53f64632210c49a7f05083e882a</update_guid>
+<update_guid_history>3688f53f64632210c49a7f05083e882a:-1646805138,1e34fdb7ae63221085d1df09b71494d8:-1059342867</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_63e2f1779363221047d33a8efaba109a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;additional_information&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;500&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Additional Information&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:30:23&lt;/sys_created_on&gt;&lt;sys_id&gt;63e2f1779363221047d33a8efaba109a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Additional Information&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_63e2f1779363221047d33a8efaba109a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:30:23&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;19&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=63e2f1779363221047d33a8efaba109a"/&gt;&lt;fx_price action="delete_multiple" query="id=63e2f1779363221047d33a8efaba109a"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;63e2f1779363221047d33a8efaba109a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:30:23&lt;/sys_created_on&gt;&lt;sys_id&gt;523375779363221047d33a8efaba10a2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:30:23&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;63e2f1779363221047d33a8efaba109a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:30:23&lt;/sys_created_on&gt;&lt;sys_id&gt;1e3375779363221047d33a8efaba10a1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:30:23&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>385357385</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>3b060ebf93a3221047d33a8efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcac8bf50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Additional Information</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>da33b9775563221008388650bf9cb62b</update_guid>
+<update_guid_history>da33b9775563221008388650bf9cb62b:385357385</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_d4dbf17393a3221047d33a8efaba108e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Types of Devices">a88275379363221047d33a8efaba1069</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:08:15</sys_created_on><sys_id>d4dbf17393a3221047d33a8efaba108e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_d4dbf17393a3221047d33a8efaba108e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:08:15</sys_updated_on><text>Laptop</text><value>lappy</value></question_choice><fx_price action="delete_multiple" query="id=d4dbf17393a3221047d33a8efaba108e"/></record_update>]]></payload>
+<payload_hash>801625367</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>3b060ebf93a3221047d33a8efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fccf397b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Laptop</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>11eb7573c1a322106afe30578c493083</update_guid>
+<update_guid_history>11eb7573c1a322106afe30578c493083:801625367</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_1a7e3d3793a3221047d33a8efaba10da</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item/&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;opened_on_behalf_of&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;100&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Opened on behalf of&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference&gt;sys_user&lt;/reference&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:30:37&lt;/sys_created_on&gt;&lt;sys_id&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Opened on behalf of&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_1a7e3d3793a3221047d33a8efaba10da&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:33:13&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;8&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set display_value="Requestor Information"&gt;8d2eb53793a3221047d33a8efaba10a4&lt;/variable_set&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1a7e3d3793a3221047d33a8efaba10da"/&gt;&lt;fx_price action="delete_multiple" query="id=1a7e3d3793a3221047d33a8efaba10da"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:30:38&lt;/sys_created_on&gt;&lt;sys_id&gt;8d01423b93a3221047d33a8efaba10e1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:30:38&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:30:38&lt;/sys_created_on&gt;&lt;sys_id&gt;4901423b93a3221047d33a8efaba10e1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:30:38&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1240125281</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>3f060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce614820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Opened on behalf of</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>c391ce3bafa32210fcdca8e5dc151f3b</update_guid>
+<update_guid_history>c391ce3bafa32210fcdca8e5dc151f3b:-1240125281,c101823ba4a3221057d26f61d3e082c8:116767782</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_39e3b9379363221047d33a8efaba1088</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="DELETE"><inactive>true</inactive><order>100</order><published_ref/><question display_value="Is this a new network connection or a relocation?">9e8fe5339363221047d33a8efaba1006</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:34:18</sys_created_on><sys_id>39e3b9379363221047d33a8efaba1088</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NEW</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_39e3b9379363221047d33a8efaba1088</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:34:18</sys_updated_on><text>NEW</text><value>NEW</value></question_choice><fx_price action="delete_multiple" query="id=39e3b9379363221047d33a8efaba1088"/></record_update>]]></payload>
+<payload_hash>-1340142215</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>3f060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcc735550000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>NEW</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>cde9f5bf48632210c7ff5a235ce0bcec</update_guid>
+<update_guid_history>cde9f5bf48632210c7ff5a235ce0bcec:-1340142215,37147db767632210c13aaa0d751c3146:-246859771</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_category_cd2e29bf9323221047d33a8efaba10d9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:08:25</sys_created_on><sys_id>cd2e29bf9323221047d33a8efaba10d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Network</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_category_cd2e29bf9323221047d33a8efaba10d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:08:25</sys_updated_on><title>Network</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=cd2e29bf9323221047d33a8efaba10d9"/></record_update>]]></payload>
+<payload_hash>-1460352900</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>730602ff93a3221047d33a8efaba1015</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fc98718e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Network</target_name>
+<type>Category</type>
+<update_domain>global</update_domain>
+<update_guid>303e29bf28232210a4b84da2e0c5d2e4</update_guid>
+<update_guid_history>303e29bf28232210a4b84da2e0c5d2e4:-1460352900</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_7f313db39363221047d33a8efaba1012</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;if_this_is_a_relocation_please_provide_your_current_address&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;320&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;If this is a relocation please provide your current address&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:22:24&lt;/sys_created_on&gt;&lt;sys_id&gt;7f313db39363221047d33a8efaba1012&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;If this is a relocation please provide your current address&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_7f313db39363221047d33a8efaba1012&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:22:24&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7f313db39363221047d33a8efaba1012"/&gt;&lt;fx_price action="delete_multiple" query="id=7f313db39363221047d33a8efaba1012"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;7f313db39363221047d33a8efaba1012&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:22:24&lt;/sys_created_on&gt;&lt;sys_id&gt;e16171f39363221047d33a8efaba102a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:22:24&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;7f313db39363221047d33a8efaba1012&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:22:24&lt;/sys_created_on&gt;&lt;sys_id&gt;ad6171f39363221047d33a8efaba1029&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:22:24&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1628739467</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>73060ebf93a3221047d33a8efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca53d8f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>If this is a relocation please provide your current address</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>296171f36563221014f23b78b163262d</update_guid>
+<update_guid_history>296171f36563221014f23b78b163262d:-1628739467</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_6253b9779363221047d33a8efaba108a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;if_any_please_type_here&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;510&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;If any,Please type here&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:31:22&lt;/sys_created_on&gt;&lt;sys_id&gt;6253b9779363221047d33a8efaba108a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;If any,Please type here&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_6253b9779363221047d33a8efaba108a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:31:22&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=6253b9779363221047d33a8efaba108a"/&gt;&lt;fx_price action="delete_multiple" query="id=6253b9779363221047d33a8efaba108a"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;6253b9779363221047d33a8efaba108a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:31:22&lt;/sys_created_on&gt;&lt;sys_id&gt;7c73fd779363221047d33a8efaba103b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:31:22&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;6253b9779363221047d33a8efaba108a&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:31:22&lt;/sys_created_on&gt;&lt;sys_id&gt;3873fd779363221047d33a8efaba103b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:31:22&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-394196651</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>77060ebf93a3221047d33a8efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcad734d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>If any,Please type here</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>7073fd77cf6322108cc03229f21f8a41</update_guid>
+<update_guid_history>7073fd77cf6322108cc03229f21f8a41:-394196651</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_a2db357393a3221047d33a8efaba1029</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="Types of Devices">a88275379363221047d33a8efaba1069</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:08:40</sys_created_on><sys_id>a2db357393a3221047d33a8efaba1029</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mobile</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_a2db357393a3221047d33a8efaba1029</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:08:40</sys_updated_on><text>Mobile</text><value>mobile</value></question_choice><fx_price action="delete_multiple" query="id=a2db357393a3221047d33a8efaba1029"/></record_update>]]></payload>
+<payload_hash>-753936990</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>77060ebf93a3221047d33a8efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fccf98f10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Mobile</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>9bfbf57304a3221078a4363e7ea4cf68</update_guid>
+<update_guid_history>9bfbf57304a3221078a4363e7ea4cf68:-753936990</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_15b2bd379363221047d33a8efaba109e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;provide_details_here&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;430&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Provide details here&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:28:56&lt;/sys_created_on&gt;&lt;sys_id&gt;15b2bd379363221047d33a8efaba109e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Provide details here&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_15b2bd379363221047d33a8efaba109e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:28:56&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=15b2bd379363221047d33a8efaba109e"/&gt;&lt;fx_price action="delete_multiple" query="id=15b2bd379363221047d33a8efaba109e"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;15b2bd379363221047d33a8efaba109e&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:28:56&lt;/sys_created_on&gt;&lt;sys_id&gt;55e2f1779363221047d33a8efaba1039&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:28:56&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;15b2bd379363221047d33a8efaba109e&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:28:56&lt;/sys_created_on&gt;&lt;sys_id&gt;11e2f1779363221047d33a8efaba1039&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:28:56&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>216235460</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>7b060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcab39c90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Provide details here</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>dde2f177b363221067c849979dfff53d</update_guid>
+<update_guid_history>dde2f177b363221067c849979dfff53d:216235460</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_set_8d2eb53793a3221047d33a8efaba10a4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>requestor_information</internal_name><layout>2down</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:19:22</sys_created_on><sys_id>8d2eb53793a3221047d33a8efaba10a4</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Requestor Information</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_set_8d2eb53793a3221047d33a8efaba10a4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-08-30 21:35:57</sys_updated_on><title>Requestor Information</title><type>one_to_one</type><version>7</version><write_roles/></item_option_new_set></record_update>]]></payload>
+<payload_hash>-195734551</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>7b060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce895c90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Requestor Information</target_name>
+<type>Variable Set</type>
+<update_domain>global</update_domain>
+<update_guid>83320e7b7ba32210b14c3a7b6a89f4c4</update_guid>
+<update_guid_history>83320e7b7ba32210b14c3a7b6a89f4c4:-195734551,e3020a7ba1a32210a249f34ab93c8ecc:12963752,89e1067bb7a322106c4fde3ce35599f0:221662055,e0a1ce3b9ea3221026ffeba174c015c1:430360358,4791ce3b01a32210d420dff48284a438:639058661,37818e3bb3a3221016cec50d71e44823:847756964,c501423b74a3221097fd5267b4fe9ae0:1056455267,447eb5376ca322109838b31e6ec057e6:-1129452730</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_cab1ce3b93a3221047d33a8efaba10c7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item/&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field display_value="Opened on behalf of"&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/dynamic_value_field&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;user_name&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;300&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;User name &lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:34:27&lt;/sys_created_on&gt;&lt;sys_id&gt;cab1ce3b93a3221047d33a8efaba10c7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;User name &lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_cab1ce3b93a3221047d33a8efaba10c7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:34:27&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set display_value="Requestor Information"&gt;8d2eb53793a3221047d33a8efaba10a4&lt;/variable_set&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cab1ce3b93a3221047d33a8efaba10c7"/&gt;&lt;fx_price action="delete_multiple" query="id=cab1ce3b93a3221047d33a8efaba10c7"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;cab1ce3b93a3221047d33a8efaba10c7&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:34:27&lt;/sys_created_on&gt;&lt;sys_id&gt;41e1067b93a3221047d33a8efaba10f2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:34:27&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;cab1ce3b93a3221047d33a8efaba10c7&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:34:27&lt;/sys_created_on&gt;&lt;sys_id&gt;0de1067b93a3221047d33a8efaba10f1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:34:27&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1998685491</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>7f060ebf93a3221047d33a8efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce735c20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>User name </target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>81e1067b72a32210ff6f7d6ffafa19f9</update_guid>
+<update_guid_history>81e1067b72a32210ff6f7d6ffafa19f9:1998685491</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_4d118a7393a3221047d33a8efaba104e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item/&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path&gt;user_name&lt;/dynamic_value_dot_walk_path&gt;&lt;dynamic_value_field display_value="Opened on behalf of"&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/dynamic_value_field&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;email_id&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;200&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Email Id&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:33:01&lt;/sys_created_on&gt;&lt;sys_id&gt;4d118a7393a3221047d33a8efaba104e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Email Id&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_4d118a7393a3221047d33a8efaba104e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:33:20&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set display_value="Requestor Information"&gt;8d2eb53793a3221047d33a8efaba10a4&lt;/variable_set&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4d118a7393a3221047d33a8efaba104e"/&gt;&lt;fx_price action="delete_multiple" query="id=4d118a7393a3221047d33a8efaba104e"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;4d118a7393a3221047d33a8efaba104e&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:33:01&lt;/sys_created_on&gt;&lt;sys_id&gt;fb818e3b93a3221047d33a8efaba1024&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:33:01&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;4d118a7393a3221047d33a8efaba104e&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:33:01&lt;/sys_created_on&gt;&lt;sys_id&gt;b7818e3b93a3221047d33a8efaba1024&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:33:01&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>93271293</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>b3060ebf93a3221047d33a8efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce62dae0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Email Id</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>20a1ce3b28a32210cb86ebc51c1655c4</update_guid>
+<update_guid_history>20a1ce3b28a32210cb86ebc51c1655c4:93271293,c4918e3bb4a32210c7664b3c57c5b12b:-2088698539</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_883d71f393a3221047d33a8efaba102b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref/><question display_value="Types of Devices">a88275379363221047d33a8efaba1069</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:14:29</sys_created_on><sys_id>883d71f393a3221047d33a8efaba102b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Others</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_883d71f393a3221047d33a8efaba102b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:14:29</sys_updated_on><text>Others</text><value>others</value></question_choice><fx_price action="delete_multiple" query="id=883d71f393a3221047d33a8efaba102b"/></record_update>]]></payload>
+<payload_hash>1465978214</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>b3060ebf93a3221047d33a8efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcd4eba40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Others</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>185df1f33ca3221026dfc9b49dd71567</update_guid>
+<update_guid_history>185df1f33ca3221026dfc9b49dd71567:1465978214</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_0422c67b93a3221047d33a8efaba10a0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item/&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;proof_of_document&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;500&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Proof of Document&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:57&lt;/sys_created_on&gt;&lt;sys_id&gt;0422c67b93a3221047d33a8efaba10a0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Proof of Document&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_0422c67b93a3221047d33a8efaba10a0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:57&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;33&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set display_value="Requestor Information"&gt;8d2eb53793a3221047d33a8efaba10a4&lt;/variable_set&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0422c67b93a3221047d33a8efaba10a0"/&gt;&lt;fx_price action="delete_multiple" query="id=0422c67b93a3221047d33a8efaba10a0"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;0422c67b93a3221047d33a8efaba10a0&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:57&lt;/sys_created_on&gt;&lt;sys_id&gt;4b320e7b93a3221047d33a8efaba10c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:57&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;0422c67b93a3221047d33a8efaba10a0&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:57&lt;/sys_created_on&gt;&lt;sys_id&gt;07320e7b93a3221047d33a8efaba10c5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:57&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1913629293</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>b7060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce8964e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Proof of Document</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>07320e7bc5a32210693d9d2fdd38cdcd</update_guid>
+<update_guid_history>07320e7bc5a32210693d9d2fdd38cdcd:-1913629293</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_f122397f9323221047d33a8efaba107c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;please_provide_address_here&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;410&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Please provide address here&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:26:07&lt;/sys_created_on&gt;&lt;sys_id&gt;f122397f9323221047d33a8efaba107c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Please provide address here&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_f122397f9323221047d33a8efaba107c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:26:07&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f122397f9323221047d33a8efaba107c"/&gt;&lt;fx_price action="delete_multiple" query="id=f122397f9323221047d33a8efaba107c"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;f122397f9323221047d33a8efaba107c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:26:07&lt;/sys_created_on&gt;&lt;sys_id&gt;0c4275379363221047d33a8efaba1013&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:26:07&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;f122397f9323221047d33a8efaba107c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:26:07&lt;/sys_created_on&gt;&lt;sys_id&gt;c44275379363221047d33a8efaba1013&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:26:07&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2135778587</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>b7060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca8a5d90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Please provide address here</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>c84275372063221003a08fcb00b11a17</update_guid>
+<update_guid_history>c84275372063221003a08fcb00b11a17:2135778587</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_category_1c9e61ff9323221047d33a8efaba10fd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Network Request">c9cded7f9323221047d33a8efaba10ed</sc_cat_item><sc_category display_value="Network">cd2e29bf9323221047d33a8efaba10d9</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:10:02</sys_created_on><sys_id>1c9e61ff9323221047d33a8efaba10fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Network.Network Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_category_1c9e61ff9323221047d33a8efaba10fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:10:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+<payload_hash>591560281</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>bb0602ff93a3221047d33a8efaba1015</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fc99ea480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Network.Network Request</target_name>
+<type>Catalog Item Category</type>
+<update_domain>global</update_domain>
+<update_guid>509ea1ff2f232210b246292bba71cb01</update_guid>
+<update_guid_history>509ea1ff2f232210b246292bba71cb01:591560281</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_abca3dff9363221047d33a8efaba10f9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;service_details&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;200&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Service Details&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:04:20&lt;/sys_created_on&gt;&lt;sys_id&gt;abca3dff9363221047d33a8efaba10f9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Service Details&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_abca3dff9363221047d33a8efaba10f9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:04:20&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;19&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=abca3dff9363221047d33a8efaba10f9"/&gt;&lt;fx_price action="delete_multiple" query="id=abca3dff9363221047d33a8efaba10f9"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;abca3dff9363221047d33a8efaba10f9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:04:20&lt;/sys_created_on&gt;&lt;sys_id&gt;bbfabdff9363221047d33a8efaba10a6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:04:20&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;abca3dff9363221047d33a8efaba10f9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:04:20&lt;/sys_created_on&gt;&lt;sys_id&gt;77fabdff9363221047d33a8efaba10a6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:04:20&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1048821732</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>bb060ebf93a3221047d33a8efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fccba44e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Service Details</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>c80b713350a32210937f5e652da00c0d</update_guid>
+<update_guid_history>c80b713350a32210937f5e652da00c0d:1048821732</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_category_497b753393a3221047d33a8efaba1007</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:06:37</sys_created_on><sys_id>497b753393a3221047d33a8efaba1007</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Network and Continuity</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_category_497b753393a3221047d33a8efaba1007</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:06:37</sys_updated_on><title>Network and Continuity</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=497b753393a3221047d33a8efaba1007"/></record_update>]]></payload>
+<payload_hash>1464847106</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>bf0602ff93a3221047d33a8efaba1014</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fccdb92b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Network and Continuity</target_name>
+<type>Category</type>
+<update_domain>global</update_domain>
+<update_guid>518b3d33dda3221017dde63e34effb0e</update_guid>
+<update_guid_history>518b3d33dda3221017dde63e34effb0e:1464847106</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_69f1467b93a3221047d33a8efaba1012</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item/&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field display_value="Opened on behalf of"&gt;1a7e3d3793a3221047d33a8efaba10da&lt;/dynamic_value_field&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;phone_number&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;400&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Phone Number&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:10&lt;/sys_created_on&gt;&lt;sys_id&gt;69f1467b93a3221047d33a8efaba1012&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Phone Number&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_69f1467b93a3221047d33a8efaba1012&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:10&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set display_value="Requestor Information"&gt;8d2eb53793a3221047d33a8efaba10a4&lt;/variable_set&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=69f1467b93a3221047d33a8efaba1012"/&gt;&lt;fx_price action="delete_multiple" query="id=69f1467b93a3221047d33a8efaba1012"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;69f1467b93a3221047d33a8efaba1012&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:10&lt;/sys_created_on&gt;&lt;sys_id&gt;ab020a7b93a3221047d33a8efaba10cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:10&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;69f1467b93a3221047d33a8efaba1012&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:35:10&lt;/sys_created_on&gt;&lt;sys_id&gt;67020a7b93a3221047d33a8efaba10cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:35:10&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2026776167</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>bf060ebf93a3221047d33a8efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fce7dd410000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Phone Number</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>23020a7b4ea3221022c855af032118d5</update_guid>
+<update_guid_history>23020a7b4ea3221022c855af032118d5:2026776167</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>io_set_item_847eb53793a3221047d33a8efaba10e7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Network Request">c9cded7f9323221047d33a8efaba10ed</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:19:22</sys_created_on><sys_id>847eb53793a3221047d33a8efaba10e7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requestor Information.Network Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>io_set_item_847eb53793a3221047d33a8efaba10e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:19:22</sys_updated_on><variable_set display_value="Requestor Information">8d2eb53793a3221047d33a8efaba10a4</variable_set></io_set_item></record_update>]]></payload>
+<payload_hash>1385377003</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>f3060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcd966190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Requestor Information.Network Request</target_name>
+<type>Catalog Variable Set</type>
+<update_domain>global</update_domain>
+<update_guid>047e3d3772a322100eb2767099f0cd74</update_guid>
+<update_guid_history>047e3d3772a322100eb2767099f0cd74:1385377003</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_ebe0b5b39363221047d33a8efaba10e9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;if_this_is_a_reloaction_please_provide_your_current_address&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;310&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;If this is a reloaction please provide your current address&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:21:12&lt;/sys_created_on&gt;&lt;sys_id&gt;ebe0b5b39363221047d33a8efaba10e9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;If this is a reloaction please provide your current address&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_ebe0b5b39363221047d33a8efaba10e9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:21:12&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ebe0b5b39363221047d33a8efaba10e9"/&gt;&lt;fx_price action="delete_multiple" query="id=ebe0b5b39363221047d33a8efaba10e9"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;ebe0b5b39363221047d33a8efaba10e9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:21:12&lt;/sys_created_on&gt;&lt;sys_id&gt;4021f9b39363221047d33a8efaba1029&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:21:12&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;ebe0b5b39363221047d33a8efaba10e9&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:21:12&lt;/sys_created_on&gt;&lt;sys_id&gt;0c21f9b39363221047d33a8efaba1028&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:21:12&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1285066386</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>f3060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca425c60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>If this is a reloaction please provide your current address</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>4021f9b3e36322106e7db7cda331e42c</update_guid>
+<update_guid_history>4021f9b3e36322106e7db7cda331e42c:1285066386</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_149e61ff9323221047d33a8efaba10f9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Network Request">c9cded7f9323221047d33a8efaba10ed</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:10:02</sys_created_on><sys_id>149e61ff9323221047d33a8efaba10f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Network Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_catalog_149e61ff9323221047d33a8efaba10f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:10:02</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>2011638333</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>f70602ff93a3221047d33a8efaba1015</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fc99e9fd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Service Catalog.Network Request</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>589e61ff29232210bdd1d3bfcab65bfc</update_guid>
+<update_guid_history>589e61ff29232210bdd1d3bfcab65bfc:2011638333</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>catalog_ui_policy_a7b3cafb93a3221047d33a8efaba10c4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_ui_policy"&gt;&lt;catalog_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_req_item&gt;true&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;true&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;catalog_conditions&gt;IO:a88275379363221047d33a8efaba1069=others^EQ&lt;/catalog_conditions&gt;&lt;catalog_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/catalog_item&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;published_ref/&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Types of devices is others&lt;/short_description&gt;&lt;sys_class_name&gt;catalog_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 21:44:00&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a7b3cafb93a3221047d33a8efaba10c4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Types of devices is others&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_ui_policy_a7b3cafb93a3221047d33a8efaba10c4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 21:44:00&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;va_supported&gt;true&lt;/va_supported&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1168664485</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>f7060ebf93a3221047d33a8efaba106a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fceff2820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Types of devices is others</target_name>
+<type>Catalog UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>3814823f09a322107bc41a8195cab489</update_guid>
+<update_guid_history>3814823f09a322107bc41a8195cab489:1168664485</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_a88275379363221047d33a8efaba1069</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;types_of_devices&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;420&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Types of Devices&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:27:51&lt;/sys_created_on&gt;&lt;sys_id&gt;a88275379363221047d33a8efaba1069&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Types of Devices&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_a88275379363221047d33a8efaba1069&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:27:51&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;5&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a88275379363221047d33a8efaba1069"/&gt;&lt;fx_price action="delete_multiple" query="id=a88275379363221047d33a8efaba1069"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;a88275379363221047d33a8efaba1069&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:27:51&lt;/sys_created_on&gt;&lt;sys_id&gt;55a27d379363221047d33a8efaba10b2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:27:51&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;a88275379363221047d33a8efaba1069&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:27:51&lt;/sys_created_on&gt;&lt;sys_id&gt;11a27d379363221047d33a8efaba10b2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:27:51&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-442342766</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>f7060ebf93a3221047d33a8efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcaa3b5b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Types of Devices</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>99a27d37446322101c6bbaa67c2373b6</update_guid>
+<update_guid_history>99a27d37446322101c6bbaa67c2373b6:-442342766</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_fc78753f9363221047d33a8efaba1019</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref/><question display_value="Is this a new network connection or a relocation?">9e8fe5339363221047d33a8efaba1006</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 20:54:23</sys_created_on><sys_id>fc78753f9363221047d33a8efaba1019</sys_id><sys_mod_count>0</sys_mod_count><sys_name>None</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_fc78753f9363221047d33a8efaba1019</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 20:54:23</sys_updated_on><text>None</text><value>none</value></question_choice><fx_price action="delete_multiple" query="id=fc78753f9363221047d33a8efaba1019"/></record_update>]]></payload>
+<payload_hash>555805512</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>fb0602ff93a3221047d33a8efaba1014</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcc287900000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>None</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>cab8b93f136322100bcc1e43f56a7a98</update_guid>
+<update_guid_history>cab8b93f136322100bcc1e43f56a7a98:555805512</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_68fee9ff9323221047d33a8efaba1065</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;service_details&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;200&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Service Details&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:13:59&lt;/sys_created_on&gt;&lt;sys_id&gt;68fee9ff9323221047d33a8efaba1065&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Service Details&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_68fee9ff9323221047d33a8efaba1065&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:13:59&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;19&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=68fee9ff9323221047d33a8efaba1065"/&gt;&lt;fx_price action="delete_multiple" query="id=68fee9ff9323221047d33a8efaba1065"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1390545311</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>fb060ebf93a3221047d33a8efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fccab31a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Service Details</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>bccaf9ffd96322106fe6f2d68622a7ee</update_guid>
+<update_guid_history>bccaf9ffd96322106fe6f2d68622a7ee:-1390545311,5a7fa533fa632210267100c966668f95:-921781244</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_2fe17df39363221047d33a8efaba10f0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Network Request"&gt;c9cded7f9323221047d33a8efaba10ed&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;location_devices_type&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;400&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Location &amp;amp; Devices Type&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:25:18&lt;/sys_created_on&gt;&lt;sys_id&gt;2fe17df39363221047d33a8efaba10f0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Location &amp;amp; Devices Type&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_2fe17df39363221047d33a8efaba10f0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:25:18&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;19&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2fe17df39363221047d33a8efaba10f0"/&gt;&lt;fx_price action="delete_multiple" query="id=2fe17df39363221047d33a8efaba10f0"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;2fe17df39363221047d33a8efaba10f0&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:25:18&lt;/sys_created_on&gt;&lt;sys_id&gt;0c12fdf39363221047d33a8efaba1091&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:25:18&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;2fe17df39363221047d33a8efaba10f0&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-30 20:25:18&lt;/sys_created_on&gt;&lt;sys_id&gt;c412fdf39363221047d33a8efaba1091&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-30 20:25:18&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1733141488</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>ff060ebf93a3221047d33a8efaba106b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fca7e7630000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>Location &amp; Devices Type</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>8412fdf33b632210e1d5e33b55ae0695</update_guid>
+<update_guid_history>8412fdf33b632210e1d5e33b55ae0695:1733141488</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>question_choice_654a71ff9363221047d33a8efaba1044</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Is this a new network connection or a relocation?">9e8fe5339363221047d33a8efaba1006</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 21:01:45</sys_created_on><sys_id>654a71ff9363221047d33a8efaba1044</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>question_choice_654a71ff9363221047d33a8efaba1044</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 21:01:45</sys_updated_on><text>New</text><value>new</value></question_choice><fx_price action="delete_multiple" query="id=654a71ff9363221047d33a8efaba1044"/></record_update>]]></payload>
+<payload_hash>755932236</payload_hash>
+<remote_update_set display_value="Creation Of Service Catalog">b3060ebf93a3221047d33a8efaba106a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-30 21:52:40</sys_created_on>
+<sys_id>ff060ebf93a3221047d33a8efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198fcc9437a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-30 21:52:40</sys_updated_on>
+<table/>
+<target_name>New</target_name>
+<type>Question Choice</type>
+<update_domain>global</update_domain>
+<update_guid>3d6a35ff916322104f63f7463c76463a</update_guid>
+<update_guid_history>3d6a35ff916322104f63f7463c76463a:755932236</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
